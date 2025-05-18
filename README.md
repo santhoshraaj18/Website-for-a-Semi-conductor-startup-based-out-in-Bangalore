@@ -1,4 +1,4 @@
-Website for a Semiconductor Startup - Bangalore
+# Website for a Semiconductor Startup - Bangalore
 
 This repository contains the source code for a website developed for a semiconductor startup based in Bangalore. The website was built using **WordPress** and **JavaScript**, with integrations for **forms, WhatsApp, Instagram, and Shopsy**.
 
@@ -15,6 +15,7 @@ The website provides an interactive platform for the semiconductor startup, ensu
 
 ## 📷 Proof of Development
 The development process and implementation details are documented in a **PDF file containing screenshots**, serving as visual proof of progress.
+
 
 Access the WordPress dashboard to configure site settings.
 

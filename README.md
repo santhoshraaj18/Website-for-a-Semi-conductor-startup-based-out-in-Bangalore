@@ -1,5 +1,4 @@
-# Website-for-a-Semi-conductor-startup-based-out-in-Bangalore
-
+Website for a Semiconductor Startup - Bangalore
 
 This repository contains the source code for a website developed for a semiconductor startup based in Bangalore. The website was built using **WordPress** and **JavaScript**, with integrations for **forms, WhatsApp, Instagram, and Shopsy**.
 
